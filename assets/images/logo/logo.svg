@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 36">
+  <defs>
+    <style>.cls-1{fill:#202020;}</style>
+  </defs>
+  <!-- K -->
+  <path class="cls-1" d="M10 10 V30 H15 V20 L25 30 H30 L20 20 L30 10 H25 L15 20 V10 H10 Z"/>
+  <!-- I -->
+  <path class="cls-1" d="M35 10 V30 H40 V10 H35 Z"/>
+  <!-- S -->
+  <path class="cls-1" d="M45 10 H60 V15 H50 V20 H60 V30 H45 V25 H55 V20 H45 V10 Z"/>
+  <!-- H -->
+  <path class="cls-1" d="M70 10 V30 H75 V22 H85 V30 H90 V10 H85 V18 H75 V10 H70 Z"/>
+  <!-- A -->
+  <path class="cls-1" d="M100 30 H105 L110 10 H115 L120 30 H115 L113 22 H107 L105 30 H100 Z M108 18 H112 L110 13 L108 18 Z"/>
+  <!-- N -->
+  <path class="cls-1" d="M130 10 V30 H135 L145 15 V30 H150 V10 H145 L135 25 V10 H130 Z"/>
+</svg>
